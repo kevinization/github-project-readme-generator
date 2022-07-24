@@ -1,4 +1,4 @@
-# Get Text From Images With Python and Javascript
+# GitHub Project README Generator
 
   ## License:
   [![license](https://img.shields.io/badge/license-None-blue)](https://shields.io)
@@ -14,23 +14,23 @@
   - [Questions](#questions)
 
   ## Description:
-  This is a little project This is a little project I did to be able to extract text from images using Python and Javascript.
+  With this program it is possible to generate custom README.md file for your GitHub projects.
 
   ## Installation:
-  For Python: Eel, importlib.resources, pathlib, PIL, pytesseract.
+  fs, inquirer
 
   ## Usage:
-  This repo uses the Python "Eel" library to communicate between Javascript and Python.
+  If you need a template to custom generate your README.md files for your GitHub projects, then this program is for you :).
 
   ## Contributing:
-  If you are interested in contrinuting to the project, you can tell me or fork it to make changes :).
+  If you are interested in contributing to the project, you can tell me or fork it to make changes :).
   
   ## Tests:
-  You just need to excecute the python main.py in root folder to use the program.
+  node index.js
 
   ## Questions:
   - Github: [Kevinization](https://github.com/Kevinization)
   - Email: kevinrodarte23@gmail.com 
-  - How to reach me? My discord is K.#3770
-  - Do you use any other social network? Yes, my Twitter is @_cybergh0st
+  - How to reach me? My discord is Kevinization#9872
+  - Do you use any other social network? Yes, my Twitter is @Kevinization
   
