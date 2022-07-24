@@ -20,7 +20,7 @@
   fs, inquirer
 
   ## Usage:
-  If you need a template to custom generate your README.md files, then this program is for you :).
+  If you need a template to custom generate your README.md files, then this program is for you :). The generated README.md file will be in root folder, its name will be Generated-README.md.
 
   ## Contributing:
   If you are interested in contributing to the project, you can tell me or fork it to make changes :).
