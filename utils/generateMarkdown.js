@@ -33,8 +33,8 @@ function generateMarkdown(data) {
   ## Questions:
   - Github: [${data.username}](https://github.com/${data.username})
   - Email: ${data.email} 
-  - How to reach me? My discord is ${data.username}#9872
-  - Do you use any other social network? Yes, my Twitter is @${data.username}
+  - How to reach me? My discord is K.#3770
+  - Do you use any other social network? Yes, my Twitter is @_cybergh0st
   `;
 }
 

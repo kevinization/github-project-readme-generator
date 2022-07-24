@@ -31,6 +31,6 @@
   ## Questions:
   - Github: [Kevinization](https://github.com/Kevinization)
   - Email: kevinrodarte23@gmail.com 
-  - How to reach me? My discord is Kevinization#9872
-  - Do you use any other social network? Yes, my Twitter is @Kevinization
+  - How to reach me? My discord is K.#3770
+  - Do you use any other social network? Yes, my Twitter is @_cybergh0st
   
