@@ -9,7 +9,7 @@ function generateMarkdown(data) {
 
   ## Table of contents:
   - [Description](#description)
-  - [Installation](#installation)
+  - [Dependencies](#dependencies)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Tests](#tests)
@@ -18,7 +18,7 @@ function generateMarkdown(data) {
   ## Description:
   ${data.description}
 
-  ## Installation:
+  ## Dependencies:
   ${data.installation}
 
   ## Usage:

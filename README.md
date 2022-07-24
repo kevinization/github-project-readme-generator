@@ -7,20 +7,20 @@
 
   ## Table of contents:
   - [Description](#description)
-  - [Installation](#installation)
+  - [Dependencies](#dependencies)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
 
   ## Description:
-  With this program it is possible to generate custom README.md file for your GitHub projects.
+  With this program it's possible to generate custom README.md files for your GitHub projects. 
 
-  ## Installation:
+  ## Dependencies:
   fs, inquirer
 
   ## Usage:
-  If you need a template to custom generate your README.md files for your GitHub projects, then this program is for you :).
+  If you need a template tocustom generate your README.md files, then this program is for you :).
 
   ## Contributing:
   If you are interested in contributing to the project, you can tell me or fork it to make changes :).
