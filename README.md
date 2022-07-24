@@ -20,7 +20,7 @@
   fs, inquirer
 
   ## Usage:
-  If you need a template tocustom generate your README.md files, then this program is for you :).
+  If you need a template to custom generate your README.md files, then this program is for you :).
 
   ## Contributing:
   If you are interested in contributing to the project, you can tell me or fork it to make changes :).
